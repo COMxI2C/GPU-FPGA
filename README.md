@@ -17,7 +17,7 @@ El diseño se ha implementado en una **FPGA**, aprovechando su capacidad para pr
    - Posibilidad de renderizar sprites básicos.  
 
 ## **⚙️ Requisitos de Hardware**  
-- **FPGA compatible** (ej: Xilinx Artix-7, Cyclone IV, etc.).  
+- **FPGA compatible** (Xilinx Artix-7 y Cyclone IV).  
 - **Conector HDMI** (se puede usar un PMOD HDMI o integrado en la placa).  
 - **Fuente de alimentación** estable para la FPGA.  
 - **Monitor HDMI** para visualización.  
