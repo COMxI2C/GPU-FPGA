@@ -53,15 +53,15 @@ El sistema puede ser controlado mediante:
 
 ## **📊 Resultados Esperados**  
 - **Señal HDMI estable** en el monitor.  
-- **Renderizado de gráficos básicos** (ej: una pantalla de prueba con colores).  
-- **Posibilidad de extender funcionalidad** (ej: añadir aceleración 2D).  
+- **Renderizado de gráficos básicos** 
+- **Posibilidad de extender funcionalidad** 
 
 ---
 
 ## **🔍 Referencias y Estándares**  
 - **Especificación HDMI 1.4** (para codificación TMDS).  
 - **Estándar VGA** (para generación de señales básicas).  
-- **Documentación de la FPGA** (para restricciones de temporización).  
+- **Documentación de la FPGA** (Tener en cuenta los drivers).  
 
 
 ---
