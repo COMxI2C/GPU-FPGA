@@ -63,17 +63,12 @@ El sistema puede ser controlado mediante:
 - **Estándar VGA** (para generación de señales básicas).  
 - **Documentación de la FPGA** (para restricciones de temporización).  
 
----
-
-## **📝 Licencia**  
-Este proyecto está bajo licencia **MIT**.  
 
 ---
 
 ## **✉️ Contacto**  
-¿Preguntas o mejoras? ¡Contáctame!  
-📧 **correo@ejemplo.com**  
-🌐 **github.com/tuusuario**  
+📧 **charleesjobs78@gmail.com**  
+🌐 **github.com/COMxI2C**  
 
 --- 
 
