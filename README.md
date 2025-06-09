@@ -1,4 +1,4 @@
-Descripción del Proyecto**  
+**Descripción del Proyecto**  
 Este proyecto consiste en el diseño e implementación de una **GPU (Unidad de Procesamiento Gráfico)** en **VHDL**, capaz de generar señales de video y transmitirlas a través de una interfaz **HDMI** para visualización en un monitor o pantalla compatible.  
 
 El diseño se ha implementado en una **FPGA**, aprovechando su capacidad para procesamiento en paralelo y generación de señales de video en tiempo real.  
